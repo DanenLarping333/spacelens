@@ -1,0 +1,15 @@
+CARA MENJALANKAN SPACELENS
+
+1. Pastikan Python 3.10 atau lebih baru sudah terpasang.
+2. Ekstrak seluruh ZIP.
+3. Buka folder hasil ekstrak di File Explorer.
+4. Klik address bar, ketik powershell, lalu Enter.
+5. Jalankan:
+   py spacelens.py
+6. Pilih folder yang ingin diperiksa.
+7. Tunggu sampai terminal menampilkan lokasi laporan.
+8. Buka file spacelens-report-....html yang dibuat.
+
+Lihat contoh hasil di examples/sample-report.html.
+Untuk upload GitHub, upload seluruh isi folder ini.
+Python dijalankan di komputer pengguna, bukan lewat GitHub Pages.
